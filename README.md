@@ -107,8 +107,8 @@ In Color Detection Mode, MYOPET uses the APDS9960 sensor to identify RGB colors.
 This mode combines color recognition with storytelling and poems, making learning enjoyable and interactive.
 
 <p align="center">
-  <img src="images/emoji.jpeg" width="45%">
-  <img src="images/emoji-oled.jpeg" width="45%">
+   <img src="images/color-green.jpeg" width="300">
+  <img src="images/color-red-oled.jpeg" width="300">
 </p>
 <p align="center">
   <p align="center">Fig 4: Color detection mode where the APDS9960 sensor identifies the color of an object, announces it aloud, and triggers corresponding story or poem playback with audio output and OLED display feedback.</p align="center">
@@ -121,8 +121,8 @@ This mode combines color recognition with storytelling and poems, making learnin
 MYOPET includes an Emotion Learning Mode that uses the MPU6050 gyroscope sensor to detect motion and orientation. Based on the detected movement, the robot displays different emoji expressions on the OLED screen along with matching audio responses. This feature helps children understand basic emotions in a friendly and intuitive way through physical interaction.
 
 <p align="center">
-   <img src="images/color green.jpeg" width="300">
-  <img src="images/color-red-oled.jpeg" width="300">
+    <img src="images/emoji.jpeg" width="45%">
+  <img src="images/emoji-oled.jpeg" width="45%">
   <p align="center"> Fig 5: Emotion mode where the MPU6050 sensor detects robot body movements and updates the displayed emoji accordingly on the OLED screen.</p align="center">
 </p>
 
@@ -152,7 +152,7 @@ MYOPET features a mode selection button located on the left shoulder of the robo
 Every mode change is clearly indicated on the OLED display, ensuring that children understand which activity is currently active.
 
 <p align="center">
-  <img src="images/button%20(2).png" width="45%">
+  <img src="images/button (1) (1).png" width="45%">
   <br>
   <p align="center">Fig 7: Mode selection button used to switch learning modes</p align="center">
 </p>
