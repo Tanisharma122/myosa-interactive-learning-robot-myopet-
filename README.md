@@ -58,7 +58,7 @@ Designed with a low-cost and sustainable approach, MYOPET demonstrates that effe
 ---
 
 ### Video
-[▶ Watch Demo Video](videos/demo-video.mp4)
+[▶ WATCH PRESENTATION VIDEO](videos/Presentation-Video.mp4)
 
 
 
@@ -174,9 +174,7 @@ MYOPET delivers feedback through a combination of visual and audio outputs. The 
 
 ### **9. Demonstration Video**
 
-<video controls width="100%">
-  <source src="videos/demo-video.mp4" type="video/mp4">
-</video>
+[▶ Watch DEMONSTRATION VIDEO](videos/Demonstration-Video.mp4)
 
 ---
 
