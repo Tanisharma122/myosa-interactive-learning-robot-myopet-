@@ -1,6 +1,6 @@
 ---
 publishDate: 2025-01-10
-title: MyoPet: An Interactive S.T.E.A.M. Learning Robot for kids.
+title: MyoPet- An Interactive S.T.E.A.M. Learning Robot for kids.
 excerpt: An ESP32-based interactive S.T.E.A.M. learning robot that teaches children alphabets, colors, poems, stories, basic science concepts, and emotions through audio, display, and sensor-based interaction.
 image: cover-image.jpg
 tags:
@@ -92,7 +92,7 @@ In Alphabet Mode, MYOPET helps children learn alphabets from A to Z using gestur
  <img src="images/alphabet-a.jpeg" width="45%">
   <img src="images/alphabet-oled-a.jpeg" width="45%">
   <img src="images/alphabet-b.jpeg" width="45%">
-  <center> Feature 1: Alphabet learning mode with gesture-based navigation</center>
+  <center> Figure 2: Alphabet learning mode with gesture-based navigation</center>
 </p>
 
 ---
@@ -111,7 +111,7 @@ This mode combines color recognition with storytelling and poems, making learnin
   <img src="images/emoji-oled.jpeg" width="45%">
 </p>
 <p align="center">
-  <i>Feature 2: Green color detection with story playback.&nbsp;&nbsp; | &nbsp;&nbsp;Red color detection with poem playback.</i>
+  <i>Figure 3: Green color detection with story playback.&nbsp;&nbsp; | &nbsp;&nbsp;Red color detection with poem playback.</i>
 </p>
 
 ---
@@ -123,7 +123,7 @@ MYOPET includes an Emotion Learning Mode that uses the MPU6050 gyroscope sensor 
 <p align="center">
    <img src="images/color-green.jpeg" width="45%">
   <img src="images/color-red-oled.jpeg" width="45%">
-  <center> Feature 3: Emotion mode displaying emojis based on movement</center >
+  <center> Figure 4: Emotion mode displaying emojis based on movement</center >
 </p>
 
 ---
@@ -135,7 +135,7 @@ The Temperature Mode uses the MYOSA BMP180 sensor to measure the real-time ambie
 <p align="center">
  <img src="images/temp.jpeg" width="45%">
   <img src="images/temp-oled.jpeg" width="45%">
-  <center>Feature 4: Temperature awareness mode with alert indication</center>
+  <center> Figure 5: Temperature awareness mode with alert indication</center>
 </p>
 
 ---
