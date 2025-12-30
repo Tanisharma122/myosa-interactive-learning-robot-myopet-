@@ -51,17 +51,16 @@ Designed with a low-cost and sustainable approach, MYOPET demonstrates that effe
   <img src="images/myopet-side-image.jpg" width="30%">
 </p>
 <p align="center">
-  <i> FIGURE 1: MYOPET interactive learning robot highlighting the OLED display and its child-friendly physical design.</i>
+  <i> Fig 1: MYOPET interactive learning robot highlighting the OLED display and its child-friendly physical design.</i>
 </p>
 
 
 ---
 
 ### Video
+[▶ Watch Demo Video](videos/demo-video.mp4)
 
-<video controls width="100%">
-  <source src="videos/presentation_video.mp4" type="video/mp4">
-</video>
+
 
 
 ---
@@ -79,7 +78,7 @@ MYOPET includes a dedicated ON/OFF switch that controls the power supply of the 
 <p align="center">
   <img src="images/myosa-start.jpeg" width="45%">
   <img src="images/oled-myosa.jpeg" width="45%">
-    <center> Figure 2: MYOPET power control and OLED startup display.</center>
+    <p align="center"> Fig 2: MYOPET power control and OLED startup display.</p align="center">
 </p>
 
 ---
@@ -92,7 +91,8 @@ In Alphabet Mode, MYOPET helps children learn alphabets from A to Z using gestur
  <img src="images/alphabet-a.jpeg" width="45%">
   <img src="images/alphabet-oled-a.jpeg" width="45%">
   <img src="images/alphabet-b.jpeg" width="45%">
-  <center> Figure 3: Alphabet learning mode with gesture-based navigation</center>
+  <p align="center"> Fig 3: Alphabet learning mode where hand movements detected by the APDS9960 sensor move to the next letter from A to Z, with audio output and OLED display feedback.
+</p align="center">
 </p>
 
 ---
@@ -111,7 +111,7 @@ This mode combines color recognition with storytelling and poems, making learnin
   <img src="images/emoji-oled.jpeg" width="45%">
 </p>
 <p align="center">
-  <i>Figure 4: Green color detection with story playback.&nbsp;&nbsp; | &nbsp;&nbsp;Red color detection with poem playback.</i>
+  <p align="center">Fig 4: Color detection mode where the APDS9960 sensor identifies the color of an object, announces it aloud, and triggers corresponding story or poem playback with audio output and OLED display feedback.</p align="center">
 </p>
 
 ---
@@ -123,7 +123,7 @@ MYOPET includes an Emotion Learning Mode that uses the MPU6050 gyroscope sensor 
 <p align="center">
    <img src="images/color green.jpeg" width="300">
   <img src="images/color-red-oled.jpeg" width="300">
-  <center> Figure 5: Emotion mode displaying emojis based on movement</center >
+  <p align="center"> Fig 5: Emotion mode where the MPU6050 sensor detects robot body movements and updates the displayed emoji accordingly on the OLED screen.</p align="center">
 </p>
 
 ---
@@ -135,7 +135,7 @@ The Temperature Mode uses the MYOSA BMP180 sensor to measure the real-time ambie
 <p align="center">
  <img src="images/temp.jpeg" width="45%">
   <img src="images/temp-oled.jpeg" width="45%">
-  <center> Figure 6: Temperature awareness mode with alert indication</center>
+  <p align="center"> Fig 6: Temperature awareness mode with alert indication</p align="center">
 </p>
 
 ---
@@ -154,7 +154,7 @@ Every mode change is clearly indicated on the OLED display, ensuring that childr
 <p align="center">
   <img src="images/button%20(2).png" width="45%">
   <br>
-  <i>Figure 7: Mode selection button used to switch learning modes</i>
+  <p align="center">Fig 7: Mode selection button used to switch learning modes</p align="center">
 </p>
 
 
@@ -172,7 +172,7 @@ MYOPET delivers feedback through a combination of visual and audio outputs. The 
 
 ---
 
-### **9. Demo Video**
+### **9. Demonstration Video**
 
 <video controls width="100%">
   <source src="videos/demo-video.mp4" type="video/mp4">
