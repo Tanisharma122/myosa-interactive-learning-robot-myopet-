@@ -1,8 +1,8 @@
 ---
-publishDate: "2025-01-10"
-title: "MyoPet: An Interactive S.T.E.A.M. Learning Robot for kids."
-excerpt: "An ESP32-based interactive S.T.E.A.M. learning robot that teaches children alphabets, colors, poems, stories, basic science concepts, and emotions through audio, display, and sensor-based interaction."
-image: "cover-image.jpg"
+publishDate: 2025-01-10
+title: MyoPet: An Interactive S.T.E.A.M. Learning Robot for kids.
+excerpt: An ESP32-based interactive S.T.E.A.M. learning robot that teaches children alphabets, colors, poems, stories, basic science concepts, and emotions through audio, display, and sensor-based interaction.
+image: cover-image.jpg
 tags:
   - myosa
   - esp32
@@ -12,13 +12,15 @@ tags:
   - embedded-systems
 ---
 
-> A friendly interactive learning robot that helps children learn alphabets, colors, stories, and emotions using voice, display, and sensor-based interaction.
------
+> MyoPet: An Interactive S.T.E.A.M. Learning Robot for kids.
+---
 ## Acknowledgements
 
-We sincerely thank the MYOSA team for providing the platform and the MYOSA Mini Kit upon clearing the first round, which enabled the successful implementation of this project. We also acknowledge the open-source community for the tools, libraries, and documentation that supported the development process. 
+We sincerely thank the MYOSA team for providing the platform and the MYOSA Mini Kit upon clearing the first round, which enabled the successful implementation of this project. 
 
----
+We also acknowledge the open-source community for the tools, libraries, and documentation that supported the development process.
+
+We express our sincere gratitude to the Students Research Lab (SRL) at M. M. Patel Students Research Project Cell (MMPSRPC), affiliated with Kadi Sarva Vishwavidyalaya (KSV) for their continuous support, guidance, and encouragement that made this work possible.
 ## Overview
 
 MYOPET is an interactive learning robot designed as a smart learning companion for children. The project focuses on introducing early learning concepts along with basic science and technology in a simple, engaging, and hands-on manner. By interacting with MYOPET, children are exposed to ideas such as motion, system response, and cause-and-effect, helping to build curiosity and interest in learning beyond traditional screen-based methods.
@@ -40,7 +42,7 @@ Designed with a low-cost and sustainable approach, MYOPET demonstrates that effe
 ### Images
 
 <p align="center">
-  <img src="images/myopet-front-image.jpg" width="800"><br/>
+  <img src="images/myopet-front-image.jpg" width="1000"><br/>
 </p>
 
 <p align="center">
@@ -49,7 +51,7 @@ Designed with a low-cost and sustainable approach, MYOPET demonstrates that effe
   <img src="images/myopet-side-image.jpg" width="30%">
 </p>
 <p align="center">
-  <i>MYOPET interactive learning robot highlighting the OLED display and its child-friendly physical design.</i>
+  <i> FIGURE 1: MYOPET interactive learning robot highlighting the OLED display and its child-friendly physical design.</i>
 </p>
 
 
@@ -77,6 +79,7 @@ MYOPET includes a dedicated ON/OFF switch that controls the power supply of the 
 <p align="center">
   <img src="images/myosa-start.jpeg" width="45%">
   <img src="images/oled-myosa.jpeg" width="45%">
+    <center> MYOPET power control and OLED startup display.</center>
 </p>
 
 ---
@@ -86,10 +89,10 @@ MYOPET includes a dedicated ON/OFF switch that controls the power supply of the 
 In Alphabet Mode, MYOPET helps children learn alphabets from A to Z using gesture-based interaction. The APDS9960 gesture sensor detects slow hand movements, allowing children to move forward through the alphabet sequence. Each alphabet is displayed clearly on the SSD1306 OLED screen and spoken aloud through the speaker, enabling both visual and auditory learning. This mode encourages active participation and improves letter recognition.
 
 <p align="center">
- <img src="images/alphabet-a.jpeg" width="30%">
-  <img src="images/alphabet-oled-a.jpeg" width="30%">
-  <img src="images/alphabet-b.jpeg" width="30%">
-  <i>Alphabet learning mode with gesture-based navigation</i>
+ <img src="images/alphabet-a.jpeg" width="45%">
+  <img src="images/alphabet-oled-a.jpeg" width="45%">
+  <img src="images/alphabet-b.jpeg" width="45%">
+  <center> Feature 1: Alphabet learning mode with gesture-based navigation</center>
 </p>
 
 ---
@@ -108,7 +111,7 @@ This mode combines color recognition with storytelling and poems, making learnin
   <img src="images/emoji-oled.jpeg" width="45%">
 </p>
 <p align="center">
-  <i>Green color detection with story playback.&nbsp;&nbsp; | &nbsp;&nbsp;Red color detection with poem playback.</i>
+  <i>Feature 2: Green color detection with story playback.&nbsp;&nbsp; | &nbsp;&nbsp;Red color detection with poem playback.</i>
 </p>
 
 ---
@@ -120,7 +123,7 @@ MYOPET includes an Emotion Learning Mode that uses the MPU6050 gyroscope sensor 
 <p align="center">
    <img src="images/color-green.jpeg" width="45%">
   <img src="images/color-red-oled.jpeg" width="45%">
-  <i>Emotion mode displaying emojis based on movement</i>
+  <center> Feature 3: Emotion mode displaying emojis based on movement</center >
 </p>
 
 ---
@@ -132,7 +135,7 @@ The Temperature Mode uses the MYOSA BMP180 sensor to measure the real-time ambie
 <p align="center">
  <img src="images/temp.jpeg" width="45%">
   <img src="images/temp-oled.jpeg" width="45%">
-  <i>Temperature awareness mode with alert indication</i>
+  <center>Feature 4: Temperature awareness mode with alert indication</center>
 </p>
 
 ---
@@ -150,7 +153,6 @@ Every mode change is clearly indicated on the OLED display, ensuring that childr
 
 <p align="center">
   <img src="button(1).png" width="45%">
-  <img src="mode.jpeg" width="45%">
   <i>Mode selection button used to switch learning modes</i>
 </p>
 
