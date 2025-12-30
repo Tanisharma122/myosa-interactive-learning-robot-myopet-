@@ -152,8 +152,8 @@ MYOPET features a mode selection button located on the left shoulder of the robo
 Every mode change is clearly indicated on the OLED display, ensuring that children understand which activity is currently active.
 
 <p align="center">
-  <img src="button(1).png" width="45%">
-  <i>Mode selection button used to switch learning modes</i>
+  <img src="button (1).png" width="45%">
+  <i> Figure 7: Mode selection button used to switch learning modes</i>
 </p>
 
 ---
