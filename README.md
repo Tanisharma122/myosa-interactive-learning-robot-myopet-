@@ -121,8 +121,8 @@ This mode combines color recognition with storytelling and poems, making learnin
 MYOPET includes an Emotion Learning Mode that uses the MPU6050 gyroscope sensor to detect motion and orientation. Based on the detected movement, the robot displays different emoji expressions on the OLED screen along with matching audio responses. This feature helps children understand basic emotions in a friendly and intuitive way through physical interaction.
 
 <p align="center">
-   <img src="images/color-green.jpeg" width="45%">
-  <img src="images/color-red-oled.jpeg" width="45%">
+   <img src="images/color green.jpeg" width="300">
+  <img src="images/color-red-oled.jpeg" width="300">
   <center> Figure 5: Emotion mode displaying emojis based on movement</center >
 </p>
 
@@ -152,9 +152,11 @@ MYOPET features a mode selection button located on the left shoulder of the robo
 Every mode change is clearly indicated on the OLED display, ensuring that children understand which activity is currently active.
 
 <p align="center">
-  <img src="button (1).png" width="45%">
-  <i> Figure 7: Mode selection button used to switch learning modes</i>
+  <img src="images/button%20(2).png" width="45%">
+  <br>
+  <i>Figure 7: Mode selection button used to switch learning modes</i>
 </p>
+
 
 ---
 
