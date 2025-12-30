@@ -12,7 +12,7 @@ tags:
   - embedded-systems
 ---
 
-> MyoPet: An Interactive S.T.E.A.M. Learning Robot for kids.
+> MyoPet: A friendly interactive learning robot that helps children learn alphabets, colors, stories, and emotions using voice, display, and sensor-based interaction.
 ---
 ## Acknowledgements
 
@@ -79,7 +79,7 @@ MYOPET includes a dedicated ON/OFF switch that controls the power supply of the 
 <p align="center">
   <img src="images/myosa-start.jpeg" width="45%">
   <img src="images/oled-myosa.jpeg" width="45%">
-    <center> MYOPET power control and OLED startup display.</center>
+    <center> Figure 2: MYOPET power control and OLED startup display.</center>
 </p>
 
 ---
@@ -92,7 +92,7 @@ In Alphabet Mode, MYOPET helps children learn alphabets from A to Z using gestur
  <img src="images/alphabet-a.jpeg" width="45%">
   <img src="images/alphabet-oled-a.jpeg" width="45%">
   <img src="images/alphabet-b.jpeg" width="45%">
-  <center> Figure 2: Alphabet learning mode with gesture-based navigation</center>
+  <center> Figure 3: Alphabet learning mode with gesture-based navigation</center>
 </p>
 
 ---
@@ -111,7 +111,7 @@ This mode combines color recognition with storytelling and poems, making learnin
   <img src="images/emoji-oled.jpeg" width="45%">
 </p>
 <p align="center">
-  <i>Figure 3: Green color detection with story playback.&nbsp;&nbsp; | &nbsp;&nbsp;Red color detection with poem playback.</i>
+  <i>Figure 4: Green color detection with story playback.&nbsp;&nbsp; | &nbsp;&nbsp;Red color detection with poem playback.</i>
 </p>
 
 ---
@@ -123,7 +123,7 @@ MYOPET includes an Emotion Learning Mode that uses the MPU6050 gyroscope sensor 
 <p align="center">
    <img src="images/color-green.jpeg" width="45%">
   <img src="images/color-red-oled.jpeg" width="45%">
-  <center> Figure 4: Emotion mode displaying emojis based on movement</center >
+  <center> Figure 5: Emotion mode displaying emojis based on movement</center >
 </p>
 
 ---
@@ -135,7 +135,7 @@ The Temperature Mode uses the MYOSA BMP180 sensor to measure the real-time ambie
 <p align="center">
  <img src="images/temp.jpeg" width="45%">
   <img src="images/temp-oled.jpeg" width="45%">
-  <center> Figure 5: Temperature awareness mode with alert indication</center>
+  <center> Figure 6: Temperature awareness mode with alert indication</center>
 </p>
 
 ---
