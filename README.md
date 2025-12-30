@@ -1,8 +1,8 @@
 ---
-publishDate: 2025-01-10
-title: MyoPet: An Interactive S.T.E.A.M. Learning Robot for kids.
-excerpt: An ESP32-based interactive S.T.E.A.M. learning robot that teaches children alphabets, colors, poems, stories, basic science concepts, and emotions through audio, display, and sensor-based interaction.
-image: cover-image.jpg
+publishDate: "2025-01-10"
+title: "MyoPet: An Interactive S.T.E.A.M. Learning Robot for kids."
+excerpt: "An ESP32-based interactive S.T.E.A.M. learning robot that teaches children alphabets, colors, poems, stories, basic science concepts, and emotions through audio, display, and sensor-based interaction."
+image: "cover-image.jpg"
 tags:
   - myosa
   - esp32
